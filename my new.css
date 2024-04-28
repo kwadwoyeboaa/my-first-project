@@ -1,0 +1,104 @@
+
+.b11 input {
+        width: 250px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 40px;
+        border-radius: 20px;
+        border: 2px solid #cfd9de;
+        color: #0f1419;
+        margin-top: 50px;
+        padding-left: 20px;
+        
+    }
+
+    
+.b66 input {
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 30px;
+    border-radius: 15px;
+    margin-top: 30px;
+    border: 2px solid #cfd9de;
+    color: #0f1419;
+    padding-left: 20px;
+    
+}
+
+
+.b55 input {
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 30px;
+    border-radius: 15px;
+    margin-top: 30px;
+    border: 2px solid #cfd9de;
+    color: #0f1419;
+    padding-left: 20px;
+}
+
+
+.b44 
+input {
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 30px;
+    border-radius: 15px;
+    margin-top: 30px;
+    border: 2px solid #cfd9de;
+    color: #0f1419;
+    padding-left: 20px;
+}
+
+
+.b33 
+    input {
+        width: 250px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 30px;
+        border-radius: 15px;
+        margin-top: 30px;
+        border: 2px solid #cfd9de;
+        color: #0f1419;
+        padding-left: 20px;
+}
+
+.b77 
+    input {
+        width: 250px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 30px;
+        border-radius: 15px;
+        margin-top: 30px;
+        border: 2px solid #cfd9de;
+        color: #0f1419;
+        padding-left: 20px;
+}
+.b22 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: max-content;
+    font-weight: lighter;
+   font-style: oblique;
+   background: #cfd9de;
+   
+  
+}
+body{
+    background-image: url(mmmmmmmmmmmmmm.jpg);
+    background-size:cover;
+    background-position: center center;
+    
+}
