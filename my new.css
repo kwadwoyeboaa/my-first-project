@@ -1,3 +1,33 @@
+.b11 input,
+.b66 input,
+.b55 input,
+.b44 input,
+.b33 input,
+.b77 input {
+    /* Your existing styles */
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 30px;
+    border-radius: 15px;
+    margin-top: 30px;
+    border: 2px solid #cfd9de;
+    color: #0f1419;
+    padding-left: 20px;
+    transition: all 0.3s ease; /* Add transition for all properties */
+}
+
+/* Add hover styles */
+.b11 input:hover,
+.b66 input:hover,
+.b55 input:hover,
+.b44 input:hover,
+.b33 input:hover,
+.b77 input:hover {
+    transform: scale(1.1); /* Scale up the input on hover */
+    border-color: #a0a0a0; /* Change border color on hover */
+}
 
 .b11 input {
         width: 250px;
